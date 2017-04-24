@@ -1,0 +1,16 @@
+PODS:
+  - VenderName (0.1.0)
+
+DEPENDENCIES:
+  - VenderName (from `../`)
+
+EXTERNAL SOURCES:
+  VenderName:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VenderName: d82983703070b745f914013df71acfd5fe3a3527
+
+PODFILE CHECKSUM: f95ba71f7588af1ae9e857d9a7cc3a725fc689a1
+
+COCOAPODS: 1.2.1

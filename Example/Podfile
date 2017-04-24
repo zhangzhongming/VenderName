@@ -6,6 +6,5 @@ target 'VenderName_Example' do
   target 'VenderName_Tests' do
     inherit! :search_paths
 
-    
   end
 end

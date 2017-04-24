@@ -1,0 +1,6 @@
+framework module Pods_VenderName_Tests {
+  umbrella header "Pods-VenderName_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

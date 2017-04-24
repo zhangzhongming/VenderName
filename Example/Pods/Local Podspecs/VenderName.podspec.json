@@ -1,0 +1,22 @@
+{
+  "name": "VenderName",
+  "version": "0.1.0",
+  "summary": "A short description of VenderName.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "http://119.23.202.251/greenhill/VenderName",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangzhongming": "zhongming.zhang@istuary.com"
+  },
+  "source": {
+    "git": "http://119.23.202.251/greenhill/VenderName.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VenderName/Classes/**/*"
+}

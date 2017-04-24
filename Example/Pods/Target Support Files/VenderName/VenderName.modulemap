@@ -1,0 +1,6 @@
+framework module VenderName {
+  umbrella header "VenderName-umbrella.h"
+
+  export *
+  module * { export * }
+}
